@@ -31,7 +31,9 @@ div.description{
 }
 div.category{
     text-align: center;
-    margin-bottom: -18px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    overflow: visible;
 }
 
 p.category{
